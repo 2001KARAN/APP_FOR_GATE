@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "557212469555",
+    "project_id": "gateappsgp",
+    "storage_bucket": "gateappsgp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557212469555:android:2a4efbf96d7b3a14a71646",
+        "android_client_info": {
+          "package_name": "com.example.gate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557212469555-8p1en2arrgd6f2hbej7at8ov6cqe925k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gate",
+            "certificate_hash": "467fd3913bd48954d5c4ddd225f701299daacb0a"
+          }
+        },
+        {
+          "client_id": "557212469555-qp2o5n1am39o2fgkk5j72qj0n7p310cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDOEZSK8TXIXx6Z-wjokyj1yvjDfIz3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557212469555-qp2o5n1am39o2fgkk5j72qj0n7p310cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
